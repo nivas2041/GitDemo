@@ -1,0 +1,3 @@
+pageObjects\LandingPage.class
+Resources\BrowserInvocation.class
+pageObjects\LoginPage.class
