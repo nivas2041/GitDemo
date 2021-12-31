@@ -27,6 +27,7 @@ public class ValidateTitle extends BrowserInvocation
 		log.info("ValidateTitle:Browser got initialized");
 		driver.get(prop.getProperty("url"));
 		log.info("ValidateTitle:Reached to homepage");
+		System.out.println("hare rama hare rama rama rama hare hare");
 	}
 	
 	@Test

@@ -30,6 +30,7 @@ public class ValidateNavigationBar extends BrowserInvocation
 		log.info("ValidateNavigationBar : driver is initialized");
 		driver.get(prop.getProperty("url"));
 		log.info("ValidateNavigationBar:Reached to homepage");
+		System.out.println("hare krishna hare krishna krishna krishna hare hare");
 	}
 
 
